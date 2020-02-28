@@ -89,6 +89,7 @@ const prefixes = [
   'milli',
   'm',
   'micro',
+  'μ',
   'µ',
   'nano',
   'n',
